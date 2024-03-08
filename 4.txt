@@ -1,0 +1,1 @@
+4) Considerando que todas as lâmpadas estão, inicialmente desligadas, basta acionar um interruptor e então ir checar qual das lâmpadas está acendida. Então, aciona-se outro interruptor e verifica-se novamente qual das lâmpada está ligada, além da primeira. Por fim, a que sobrou, corresponde ao terceiro interruptor.
